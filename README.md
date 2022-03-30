@@ -1,1 +1,1 @@
-Some text on master branch file
+Text on branch file
